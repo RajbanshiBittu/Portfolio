@@ -95,9 +95,11 @@ const Hero = () => {
             >
               B.Tech Computer Science graduate from{" "}
               <span className="text-white font-semibold">
-                IMPS College of Engineering & Technology, Malda .
+                IMPS College of Engineering & Technology, Malda{" "}
               </span>
-                with hands-on experience building production ready applications, specialized in JavaScript, Node.js, Express.js and React.js with a focus on building attractive UI, designing scalable RESTful APIs and database integration. proven ability to solve real-world technical problems. I'm committed to delivering secure, high performance code and building realiable system solutions in a agile environment. 
+                 with hands-on experience building production-ready web applications. Specialized in the MERN stack (MongoDB, Express.js, React.js, Node.js), with a strong focus on developing responsive user interfaces, designing scalable RESTful APIs, and efficient database integration.<br  />
+                 Interned at AtomLeap.ai Technologies as a Software Developer Intern, where I built and optimized backend services, developed RESTful APIs, and contributed to improving application performance and security.<br  />
+                 Committed to writing clean, secure, and high-performance code while delivering reliable and scalable solutions in an agile development environment.
             </motion.p>
 
             {/* Quick Stats with Counter Animation */}
