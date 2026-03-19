@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AnimatePresence } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X, Terminal, Download } from "lucide-react";
 
 const Navbar = () => {
@@ -85,7 +85,7 @@ const Navbar = () => {
 
               {/* Download CV Button - Mobile */}
               <a
-                href=""
+                href="https://drive.google.com/file/d/1pG_CFiauBdkPidBo2Iebw5_-SIAqXWoF/view?usp=drivesdk"
                 onClick={() => setIsOpen(false)}
                 className="block w-full mt-4 inline-flex items-center justify-center gap-2 bg-brand hover:bg-brand-hover text-white px-4 py-3 rounded-lg text-sm font-medium transition-all duration-200"
               >
