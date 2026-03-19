@@ -28,7 +28,7 @@ const proficiency = [
   { name: "MongoDB", level: 50 },
   { name: "Express.js", level: 85 },
   { name: "React.js", level: 50 },
-  { name: "Node.js", level: 65 },
+  { name: "Tailwind css", level: 65 },
 ];
 
 const Skills = () => {
